@@ -370,7 +370,8 @@
 }
 
 .project-link-arrow {
-  width: 60px;
+  /* width: 60px; */
+  height: 20px;
   padding-left: 20px;
   opacity: 0;
 }
